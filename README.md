@@ -13,7 +13,7 @@ Wolfdev feed é um projeto que simula o feed de uma rede social.
 ``npm run dev``
 
 4. Acessar aplicação
-``http://localhost:3000/``
+``http://localhost:5173/``
 
 ## Tecnologias utilizadas
 
